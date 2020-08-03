@@ -4,7 +4,7 @@ I'm a finnish student learning coding in my free time. I also made a website wit
 <br>
 <br>
 <b>Our Website: </b><a href="http://wh492917.ispot.cc/">http://wh492917.ispot.cc/</a>
-<br><font size:4>  (we know the URL seems fishy, we're working on that)</font>
+<br><font-size="4">  (we know the URL seems fishy, we're working on that)</font>
 <br>
 <br>
 <br>
