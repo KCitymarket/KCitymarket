@@ -1,7 +1,8 @@
 ### Hey!
 
+<tr>
 I'm a finnish student learning coding in my free time. I also made a website with <a href="https://github.com/oveeauki"> @oveeauki </a>
-
+</tr>
 
 <br>
 <br>
